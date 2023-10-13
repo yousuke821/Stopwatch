@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+/*ヘッダー*/
+h1{
+    font-famiry: arial, sans-serif;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+/* 時間表示 */
+#time{
+    font-family: arial, sans-serif;
+    font-size: 60px;
+    margin: 20px 0;
+}
+
+/*ボタン*/
+#start, #stop, #reset{
+  font-family: arial, sans-serif;
+  text-align: Left;
+  font-size: 1.5rem;
+  border-radius: .3rem;
+}
